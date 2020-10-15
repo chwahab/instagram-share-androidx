@@ -17,7 +17,7 @@
  under the License.
  */
 
-package com.vladstirbu.cordova.plugin.utils;
+package com.vladstirbu.cordova;
 
 import androidx.core.content.FileProvider;
 
